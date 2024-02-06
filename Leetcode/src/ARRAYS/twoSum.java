@@ -1,3 +1,5 @@
+package ARRAYS;
+
 import java.util.*;
 
 class Solution {
@@ -12,7 +14,6 @@ class Solution {
                 }
 
                 hashMap.put(nums[i],i);
-            }
-            return new int[]{0, 0};
+            }            return new int[]{0, 0};
 }
 }
